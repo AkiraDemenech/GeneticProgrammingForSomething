@@ -1,8 +1,8 @@
 '''Chromosome is the Module for Generation, Mutation, Crossover and Fitness calculation.
 	Cromossomo é o Módulo para Geração, Mutação, Cruzamento e cálculo do Fitness (Avaliação).'''
 
-from exm import nan, inf, isnan, isinf, getlist
-import exm as x
+from trymathgp.exm import nan, inf, isnan, isinf, getlist
+import trymathgp.exm as x
 
 #	A Função Objetivo padrão [target default] é f(x)=x
 default = 'x'

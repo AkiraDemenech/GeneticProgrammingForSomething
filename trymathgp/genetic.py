@@ -1,7 +1,7 @@
 '''genetic is the main Module to build the aplication of Genetic Programming
 	é o módulo Principal para edificar a aplicação da Programação Genética (PG)'''
 
-import chromosome as y
+import trymathgp.chromosome as y
 
 gmax = 10
 pop_size = 100
