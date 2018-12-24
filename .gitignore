@@ -1,1 +1,8 @@
-/Python/__pycache__/
+/trymathgp/__index__.py
+/trymathgp/__pycache__/
+/trymathgp.egg-info/
+/setup.cfg
+/setup.bat
+/setup.py
+/build/
+/dist/
